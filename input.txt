@@ -1,0 +1,27 @@
+-------- Input C++ & Java --------
+A006 Royal_Velvet_Bowtie 75000 6 Dasi_Kupu Beludru Ungu Kucing_Anjing M RegalPets
+A007 Aurora_Crystal_Charm 95000 5 Gantungan Kristal Pelangi Kucing_Anjing One_Size CelestialPaws
+end
+
+-------- Input Python --------
+A006
+Royal_Velvet_Bowtie
+100000
+7
+Dasi_Kupu
+Beludru
+Ungu
+Kucing_Anjing
+M
+RegalPets
+A007
+Aurora_Crystal_Charm
+95000
+5
+Gantungan
+Kristal
+Pelangi
+Kucing_Anjing
+One_Size
+CelestialPaws
+end
