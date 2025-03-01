@@ -40,6 +40,7 @@ Di Program ini terdiri dari beberapa class :
         - getMerk (untuk mendapatkan atribut merk)
 
 Jika digambarkan dalam grafik, maka akan menjadi seperti berikut:
+![Image](https://github.com/user-attachments/assets/d1c0211a-efb7-475f-b392-a7d70c8fa800)
 
 # Alur Program
 
