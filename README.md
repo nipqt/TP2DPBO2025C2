@@ -55,20 +55,20 @@ Jika digambarkan dalam grafik, maka akan menjadi seperti berikut:
 # Dokumentasi
 
 ### Dokumentasi C++
-![Dokum C++][https://github.com/nipqt/TP2DPBO2025C2/blob/main/C++/Dokumentasi/1.jpeg]
-![Dokum C++][https://github.com/nipqt/TP2DPBO2025C2/blob/main/C++/Dokumentasi/2.jpeg]
-![Dokum C++][https://github.com/nipqt/TP2DPBO2025C2/blob/main/C++/Dokumentasi/3.jpeg]
+![Dokum C++](https://github.com/nipqt/TP2DPBO2025C2/blob/main/C++/Dokumentasi/1.jpeg)
+![Dokum C++](https://github.com/nipqt/TP2DPBO2025C2/blob/main/C++/Dokumentasi/2.jpeg)
+![Dokum C++](https://github.com/nipqt/TP2DPBO2025C2/blob/main/C++/Dokumentasi/3.jpeg)
 
 ### Dokumentasi Java
-![Dokum Java][https://github.com/nipqt/TP2DPBO2025C2/blob/main/Java/Dokumentasi/1.jpeg]
-![Dokum Java][https://github.com/nipqt/TP2DPBO2025C2/blob/main/Java/Dokumentasi/2.jpeg]
-![Dokum Java][https://github.com/nipqt/TP2DPBO2025C2/blob/main/Java/Dokumentasi/3.jpeg]
+![Dokum Java](https://github.com/nipqt/TP2DPBO2025C2/blob/main/Java/Dokumentasi/1.jpeg)
+![Dokum Java](https://github.com/nipqt/TP2DPBO2025C2/blob/main/Java/Dokumentasi/2.jpeg)
+![Dokum Java](https://github.com/nipqt/TP2DPBO2025C2/blob/main/Java/Dokumentasi/3.jpeg)
 
 ### Dokumentasi Python
-![Dokum Python][https://github.com/nipqt/TP2DPBO2025C2/blob/main/Python/Dokumentasi/1.jpeg]
-![Dokum Python][https://github.com/nipqt/TP2DPBO2025C2/blob/main/Python/Dokumentasi/2.jpeg]
-![Dokum Python][https://github.com/nipqt/TP2DPBO2025C2/blob/main/Python/Dokumentasi/3.jpeg]
+![Dokum Python](https://github.com/nipqt/TP2DPBO2025C2/blob/main/Python/Dokumentasi/1.jpeg)
+![Dokum Python](https://github.com/nipqt/TP2DPBO2025C2/blob/main/Python/Dokumentasi/2.jpeg)
+![Dokum Python](https://github.com/nipqt/TP2DPBO2025C2/blob/main/Python/Dokumentasi/3.jpeg)
 
 ### Dokumentasi PHP
-![Dokum PHP][https://github.com/nipqt/TP2DPBO2025C2/blob/main/PHP/Dokumentasi/1.jpeg]
-![Dokum PHP][https://github.com/nipqt/TP2DPBO2025C2/blob/main/PHP/Dokumentasi/2.jpeg]
+![Dokum PHP](https://github.com/nipqt/TP2DPBO2025C2/blob/main/PHP/Dokumentasi/1.jpeg)
+![Dokum PHP](https://github.com/nipqt/TP2DPBO2025C2/blob/main/PHP/Dokumentasi/2.jpeg)
